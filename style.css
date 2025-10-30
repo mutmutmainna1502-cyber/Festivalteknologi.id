@@ -101,7 +101,7 @@ body {
 .hero img {
     position: relative;
     height: 450px;
-    background-image: url(img/hero.png);
+    background-image: url(hero.png);
     background-size: cover;
     background-position: 0 -150;
     background-repeat: 0 -100;
