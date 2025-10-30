@@ -98,7 +98,8 @@ body {
 }
 
 
-.hero {
+.hero img {
+    position: relative;
     height: 450px;
     background-image: url(img/hero.png);
     background-size: cover;
@@ -111,6 +112,7 @@ body {
 
 .content {
     padding: 20px;
+    position: relative;
 }
 
 .content h2 {
